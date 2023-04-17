@@ -4,7 +4,8 @@
 #- 🌱 I’m currently learning 
 #- 💞️ I’m looking to collaborate on ...
 --->
-- 📫 How to reach me: oskan803@student.liu.se
+#- 📫 How to reach me: oskan803@student.liu.se
+- 📫 How to reach me: oskar.andersson@liu.se
 
 <!---
 oke464/oke464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
